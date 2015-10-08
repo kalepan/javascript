@@ -1,0 +1,29 @@
+p {
+	color: yellow;
+	font-family: "arial",sans-serif;
+	font-size: 1.2em;
+}
+
+body{
+	color:white;
+	background-color: black;
+}
+
+.special{
+	font-style: italic;
+}
+
+h2.special {
+	text-transform: uppercase;
+}
+
+#purchases{
+	border: 1px solid white;
+	background-color: #333;
+	color: #ccc;
+	padding: 1em;
+}
+
+#purchases li {
+	font-weight: bold;
+}
